@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+scikit-learn
+xgboost
+pickle5  # If using Python 3.8+, otherwise pickle is built-in
